@@ -11,5 +11,5 @@
     * [技术辅导](javase11tian-ff09-dai-ban-gui-fan/ri-chang-fu-dao-gong-zuo-gui-fan/ji-zhu-fu-dao.md)
     * [末位学员筛选及座位调整](javase11tian-ff09-dai-ban-gui-fan/ri-chang-fu-dao-gong-zuo-gui-fan/mo-wei-xue-yuan-shai-xuan-ji-zuo-wei-diao-zheng.md)
     * [末尾学员辅导工作](javase11tian-ff09-dai-ban-gui-fan/ri-chang-fu-dao-gong-zuo-gui-fan/mo-wei-xue-yuan-fu-dao-gong-zuo.md)
-    * 点招后的补课工作
+    * [点招后的补课工作](javase11tian-ff09-dai-ban-gui-fan/ri-chang-fu-dao-gong-zuo-gui-fan/dian-zhao-hou-de-bu-ke-gong-zuo.md)
 
