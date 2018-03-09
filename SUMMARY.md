@@ -9,7 +9,7 @@
     * [创建教学交流群](javase11tian-ff09-dai-ban-gui-fan/kai-ban-gong-zuo-gui-fan/chuang-jian-jiao-xue-jiao-liu-qun.md)
   * [日常辅导工作规范](javase11tian-ff09-dai-ban-gui-fan/ri-chang-fu-dao-gong-zuo-gui-fan.md)
     * [技术辅导](javase11tian-ff09-dai-ban-gui-fan/ri-chang-fu-dao-gong-zuo-gui-fan/ji-zhu-fu-dao.md)
-    * 末位学员筛选及座位调整
+    * [末位学员筛选及座位调整](javase11tian-ff09-dai-ban-gui-fan/ri-chang-fu-dao-gong-zuo-gui-fan/mo-wei-xue-yuan-shai-xuan-ji-zuo-wei-diao-zheng.md)
     * 末尾学员辅导工作
     * 点招后的补课工作
 
