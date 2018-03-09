@@ -13,3 +13,9 @@
     * [末尾学员辅导工作](javase11tian-ff09-dai-ban-gui-fan/ri-chang-fu-dao-gong-zuo-gui-fan/mo-wei-xue-yuan-fu-dao-gong-zuo.md)
     * [点招后的补课工作](javase11tian-ff09-dai-ban-gui-fan/ri-chang-fu-dao-gong-zuo-gui-fan/dian-zhao-hou-de-bu-ke-gong-zuo.md)
 
+* 附录一 JavaEE教学辅助系统使用指南
+
+* 附录二 点招真题
+
+
+
