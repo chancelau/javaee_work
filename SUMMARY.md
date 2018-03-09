@@ -15,6 +15,6 @@
 * [附录一 JavaEE教学辅助系统使用指南](fu-lu-yi-javaee-jiao-xue-fu-zhu-xi-tong-shi-yong-zhi-nan.md)
 * 附录二 点招真题
   * [黑马27期点招考试真题](hei-ma-27-qi-dian-zhao-kao-shi-zhen-ti.md)
-  * 黑马28期点招考试真题
+  * [黑马28期点招考试真题](hei-ma-28-qi-dian-zhao-kao-shi-zhen-ti.md)
   * 黑马29期点招考试真题
 
